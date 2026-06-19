@@ -84,7 +84,7 @@ The tool addresses the critical challenge of identifying which SNI domains work 
 #### Quick Install
 ```bash
 # Clone repository
-git clone https://github.com/AminDaProgrammer/Master_Reality_SNI_Scanner.git
+git clone https://github.com/ttohix/Master_Reality_SNI_Scanner.git
 cd Master_Reality_SNI_Scanner
 
 # Auto-install dependencies
